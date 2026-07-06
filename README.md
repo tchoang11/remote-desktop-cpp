@@ -53,10 +53,6 @@ Source/
 Open the project in Visual Studio with the Qt VS Tools extension (Qt 6 installed), or configure
 with qmake/CMake against a Qt 6 kit, then build the Server and Client targets separately.
 
-## Demo
-
-> Demo video is too large for GitHub — add your Google Drive / YouTube link here.
-
 ## Notes & possible improvements
 
 This was an early learning project. Known limitations / future work:
