@@ -1,0 +1,45 @@
+# ---- Build output / artifacts ----
+Release_Client/
+Release_Server/
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.dll
+*.log
+*.recipe
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.lib
+*.ipch
+*.aps
+
+# Qt generated files
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qmake.stash
+Makefile*
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.FileListAbsolute.txt
+*.suo
+*.sln.docstates
+
+# Office temp lock files
+~$*.docx
+~$*.doc
+
+Demo/
+Report/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
